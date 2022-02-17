@@ -12,7 +12,7 @@ This repository will aid you to install Anaconda according to your preferrence o
 * [Mac Os](https://docs.anaconda.com/anaconda/install/mac-os/)
 
 ## Setting Up the Environment of Python 3
-Hooorayyy!!!! your are done the installation of Anaconda. Now open the terminal for linux and macOs and activate `base` environment of anaconda by:
+Hooorayyy!!!! You are done the installation of Anaconda. Now open the terminal for linux and macOs and activate `base` environment of anaconda by:
 
 ![Terminal](https://user-images.githubusercontent.com/70914271/152668997-60d7a8c5-8395-4309-846c-3a2b83af2d6c.png)
 
@@ -51,6 +51,14 @@ The Jupyter Notebooks are designed for Python, so you should have no problems. S
 conda config --add channels conda-forge
 conda update --all
 ```
+
+For machine learning, we are required some libraries in this workshop such as:
+- `matplotlib`
+- `seaborn`
+- `pandas`
+- `numpy`
+- `tensorflow`
+
 ## Jupyter-Notebook
 The Notebooks will give you a brief tutorial into Python, designed for undergrads that have little to no experience in programming. These notebooks are adapated from previous ones made in Python. Just press the Binder link and let it launch. Learn, enjoy, explore!
 
