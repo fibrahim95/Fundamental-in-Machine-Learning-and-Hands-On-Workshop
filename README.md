@@ -43,4 +43,9 @@ conda install ipykernel
 conda install notebook
 ```
 
-The Jupyter Notebooks are designed for Python, so you should have no problems. Some libraries may not be available beforehand, so you should download them, such as Matplotlib, pandas, scikit-learn, and etc.
+The Jupyter Notebooks are designed for Python, so you should have no problems. Some libraries may not be available beforehand, so you should download them, such as Matplotlib, pandas, scikit-learn, and etc. If you have already added conda-forge as a channel, the -c conda-forge is unnecessary. Adding the channel is recommended because it ensures that all of your packages use compatible versions. Here is the [conda-forge docs](https://conda-forge.org/docs/user/introduction.html#how-can-i-install-packages-from-conda-forge):
+
+```
+conda config --add channels conda-forge
+conda update --all
+```
