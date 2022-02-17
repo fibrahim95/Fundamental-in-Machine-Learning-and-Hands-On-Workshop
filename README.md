@@ -111,7 +111,7 @@ The Jupyeter Notebook will pop up the interface. To create a new notebook, click
 ![Screenshot (33)](https://user-images.githubusercontent.com/70914271/154542523-8cbcdcbf-348a-4a91-97e8-62951acfa0f4.png)
 
 
-You guys can play around with Jupyter-Notebook before the workshop will carried out to ensure your Notebook is working well. Here you guys can go through some python tutorials in this [link](https://www.w3schools.com/python/). Good luck!!!
+Well done!! You made to install Anaconda and Jupyter-Notebook. You guys can play around with Jupyter-Notebook before the workshop will carried out to ensure your Notebook is working well. Here you guys can go through some python tutorials in this [link](https://www.w3schools.com/python/). Good luck!!!
 
 
 
