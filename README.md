@@ -19,7 +19,7 @@ Hooorayyy!!!! your are done the installation of Anaconda. Now open the terminal 
 ```
 source ~/anaconda3/bin/activate
 ```
-For windows, search anaconda prompt and double click it.
+For windows, search `anaconda promp`t and double click it.
 ![windows](https://user-images.githubusercontent.com/70914271/152669025-8f8fe0b2-fe62-40c4-b037-7b7b919bc397.jpeg)
 
 
@@ -54,12 +54,12 @@ The Notebooks will give you a brief tutorial into Python, designed for undergrad
 
 Running on Binder requires a good internet connection, but even then it does not guarantee that the kernel would not suddenly die. So, to minimize external factors disrupting your experience to learn, it is better for you to run the Jupyter Notebooks locally on your computer. Follow the steps outlined for contributors, then launch the notebooks from the Conda environment.
 
-Open a notebook, and start developing!
+To open a notebook, and start developing!
 ```
 jupyter-notebook
 ```
 
-For windows,
+For windows, search `anaconda navigator` and double click it.
 
 ```
 anaconda-navigator
