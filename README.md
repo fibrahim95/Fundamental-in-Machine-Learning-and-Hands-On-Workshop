@@ -69,6 +69,12 @@ For example, we want to install `matplotlib`:
 ```
 conda install -c conda-forge matplotlib
 ```
+![Screenshot (30)](https://user-images.githubusercontent.com/70914271/154533713-8e934767-285d-4c37-b3ed-6dd1b99f0d4f.png)
+
+Since you are done installation the libraries, you can check and ensure all these libraries are installed. Just type:
+```
+conda list
+```
 
 ## Jupyter-Notebook
 The Notebooks will give you a brief tutorial into Python, designed for undergrads that have little to no experience in programming. These notebooks are adapated from previous ones made in Python. Just press the Binder link and let it launch. Learn, enjoy, explore!
