@@ -106,7 +106,8 @@ For windows, search `anaconda navigator` and double click it.
 The interface will pop up and make sure check the Jupyter Notebook was installed and environment you created `myEnv` is exist. During this workshop, you need to use this environment for the basic python and hands-on. Click launch the Jupyter Notebook:
 ![Screenshot (32)](https://user-images.githubusercontent.com/70914271/154540494-994c35d3-13cc-472e-8c83-ee7623b2dfed.png)
 
-
+The Jupyeter Notebook will pop up the interface. To create a new notebook, click the button `New` and you will see in this notebook that you will be use python 3. Please try run and print `Hello world` in this notebook.
+![Screenshot (33)](https://user-images.githubusercontent.com/70914271/154542523-8cbcdcbf-348a-4a91-97e8-62951acfa0f4.png)
 
 
 You guys can play around with Jupyter-Notebook before the workshop will carried out to ensure your Notebook is working well.
