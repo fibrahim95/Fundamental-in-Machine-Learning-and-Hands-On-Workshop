@@ -49,3 +49,19 @@ The Jupyter Notebooks are designed for Python, so you should have no problems. S
 conda config --add channels conda-forge
 conda update --all
 ```
+## Jupyter-Notebook
+The Notebooks will give you a brief tutorial into Python, designed for undergrads that have little to no experience in programming. These notebooks are adapated from previous ones made in Python. Just press the Binder link and let it launch. Learn, enjoy, explore!
+
+Running on Binder requires a good internet connection, but even then it does not guarantee that the kernel would not suddenly die. So, to minimize external factors disrupting your experience to learn, it is better for you to run the Jupyter Notebooks locally on your computer. Follow the steps outlined for contributors, then launch the notebooks from the Conda environment.
+
+Open a notebook, and start developing!
+```
+jupyter-notebook
+```
+
+For windows,
+
+```
+anaconda-navigator
+
+```
