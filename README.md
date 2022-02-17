@@ -12,12 +12,8 @@ This repository will aid you to install Anaconda according to your preferrence o
 * [Mac Os](https://docs.anaconda.com/anaconda/install/mac-os/)
 
 ## Setting Up the Environment of Python 3
-Since your are done the installation of Anaconda, let's start to create the environment of Anaconda with python version 3.9.
+Since your are done the installation of Anaconda, now activate conda environment that is called `base`. the let's start to create the environment of Anaconda with python version 3.9.
 
-These instructions are designed for those contributing using Linux via a Bash terminal, but if you're using Jupyter directly, then you need to find a workaround for some stuff that I didn't bother to explore yet.
-
-1. Install Anaconda.
-2. Setup a Conda environment first and use it in there.
 3. Open the terminal for linux and macOs. Activate base environment of anaconda by:
 
 ![Terminal](https://user-images.githubusercontent.com/70914271/152668997-60d7a8c5-8395-4309-846c-3a2b83af2d6c.png)
