@@ -21,6 +21,8 @@ source ~/anaconda3/bin/activate
 ```
 For windows, search `anaconda prompt` and double click it.
 ![windows](https://user-images.githubusercontent.com/70914271/152669025-8f8fe0b2-fe62-40c4-b037-7b7b919bc397.jpeg)
+![Screenshot (27)](https://user-images.githubusercontent.com/70914271/154524696-0894c12d-9157-4c63-937c-322e55568386.png)
+
 
 
 Since we are activated conda `base` environment, let's start to create the environment of Anaconda with python version `3.9`. You can read up more on how Conda environments work [here](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/environments.html). Basically, they're just a separate place you can mess around without interupting or corrupting your default setup. 
@@ -61,7 +63,7 @@ jupyter-notebook
 
 For windows, search `anaconda navigator` and double click it.
 
-```
-anaconda-navigator
 
-```
+
+
+
