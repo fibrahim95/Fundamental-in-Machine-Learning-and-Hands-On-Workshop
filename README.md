@@ -62,6 +62,7 @@ jupyter-notebook
 ```
 
 For windows, search `anaconda navigator` and double click it.
+![Screenshot (25)](https://user-images.githubusercontent.com/70914271/154525512-dc4823f8-35f4-470f-b0c6-a57ddf0a5841.png)
 
 
 
