@@ -19,7 +19,7 @@ Hooorayyy!!!! your are done the installation of Anaconda. Now open the terminal 
 ```
 source ~/anaconda3/bin/activate
 ```
-For windows, search `anaconda promp`t and double click it.
+For windows, search `anaconda prompt` and double click it.
 ![windows](https://user-images.githubusercontent.com/70914271/152669025-8f8fe0b2-fe62-40c4-b037-7b7b919bc397.jpeg)
 
 
