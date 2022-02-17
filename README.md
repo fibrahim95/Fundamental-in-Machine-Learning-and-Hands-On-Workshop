@@ -69,6 +69,7 @@ For machine learning, we are required some libraries in this workshop such as:
 - [`numpy`](https://anaconda.org/anaconda/numpy)
 - [`tensorflow`](https://anaconda.org/conda-forge/tensorflow)
 - [`scikit-learn`](https://anaconda.org/anaconda/scikit-learn)
+- [`jupyter`](https://anaconda.org/conda-forge/jupyter)
 
 You need to install all these libraries in `myEnv` environment. To install these libraries, go to command prompt or terminal, just type:
 
@@ -110,13 +111,7 @@ The Jupyeter Notebook will pop up the interface. To create a new notebook, click
 ![Screenshot (33)](https://user-images.githubusercontent.com/70914271/154542523-8cbcdcbf-348a-4a91-97e8-62951acfa0f4.png)
 
 
-You guys can play around with Jupyter-Notebook before the workshop will carried out to ensure your Notebook is working well.
-
-
-
-
-
-Here you guys can go through some tutorials in this [link](https://www.w3schools.com/python/).
+You guys can play around with Jupyter-Notebook before the workshop will carried out to ensure your Notebook is working well. Here you guys can go through some tutorials in this [link](https://www.w3schools.com/python/). Good luck!!!
 
 
 
