@@ -53,11 +53,19 @@ conda update --all
 ```
 
 For machine learning, we are required some libraries in this workshop such as:
-- `matplotlib`
+- [`matplotlib`](https://anaconda.org/conda-forge/matplotlib)
 - `seaborn`
 - `pandas`
 - `numpy`
 - `tensorflow`
+- `scikit-learn`
+
+You need to install all these libraries in `myEnv` environment. Go to command prompt or terminal, just type:
+
+```
+conda install -c conda-forge <library name>
+```
+
 
 ## Jupyter-Notebook
 The Notebooks will give you a brief tutorial into Python, designed for undergrads that have little to no experience in programming. These notebooks are adapated from previous ones made in Python. Just press the Binder link and let it launch. Learn, enjoy, explore!
